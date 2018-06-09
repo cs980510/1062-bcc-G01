@@ -1,11 +1,11 @@
- body{
+#bomb {
     border: 10px solid purple;
     text-align: center;
 }
- input{
+#bomb input{
     margin: 10px;
 }
- #bombs img{
+ #bomb #bombs img{
     width:25px;
     margin:8px 5px 10px 10px;
 }
