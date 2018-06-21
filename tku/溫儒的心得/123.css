@@ -2,7 +2,7 @@
 #blog {
     width: 80%;
     margin: 20px auto;
-    border: 20px solid #bdc3c7;
+    border: 20px solid #0370ca;
     padding: 20px;
     font-size: 20px;
     font-family: 'Source Sans Pro';
@@ -27,8 +27,4 @@
   font-size: 2em;
   font-weight: bold;
   color: #374c60;
-}
-
-#blog hr{
-  
 }
