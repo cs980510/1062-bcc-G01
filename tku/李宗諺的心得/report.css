@@ -1,0 +1,24 @@
+#main {
+    border-style: dotted;
+    border-color: green;
+    
+}
+#main h1 {
+    text-align: center;
+    font-size: 26pt;
+    padding-top: 20pt;
+    background-color: aliceblue;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#main h2 {
+    text-align: left;
+    font-size: 18pt;
+    padding-top: 20pt;
+    background-color: aliceblue;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: monospace;
+    
+}
+
